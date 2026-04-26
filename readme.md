@@ -1,4 +1,4 @@
-Project Name - Alphalogistics 
+Project Name - Neurologistics  
 
 Problem Statement - Problem:
 
